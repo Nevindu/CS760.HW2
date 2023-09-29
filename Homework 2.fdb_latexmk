@@ -1,13 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1695969211 "c:/workspace/UW Madison/Fall 2023/CS 760/Homeworks/HW2/Homework 2.tex" "Homework 2.pdf" "Homework 2" 1695969213 0
+["pdflatex"] 1695970101 "c:/workspace/UW Madison/Fall 2023/CS 760/Homeworks/HW2/Homework 2.tex" "Homework 2.pdf" "Homework 2" 1695970103 0
   "D128_trn_decision_boundary.png" 1695968531 7871 d233648f0d04e8c5fe1bb4ed4a9c4d9d ""
   "D2048_trn_decision_boundary.png" 1695968534 8045 849a0bbde4ad171fd9371abe95676d7f ""
   "D32_trn_decision_boundary.png" 1695968530 7808 399dfd72ed70abeb4b6df450c3364953 ""
   "D512_trn_decision_boundary.png" 1695968531 8024 0fa817393587fadc3a8b284160810760 ""
   "D8192_trn_decision_boundary.png" 1695968553 8175 19339f7080da381941de133778b6afc7 ""
-  "Homework 2.aux" 1695969213 7001 1a2d38e870782847cbdc798b8bbde4e0 "pdflatex"
-  "Homework 2.out" 1695969213 606 caba0bdd28b2eaa16be05ef7e41ffe73 "pdflatex"
-  "Homework 2.tex" 1695969210 21958 43f83a35ec4e8f01bc4c22513ed88e2a ""
+  "Homework 2.aux" 1695970103 7001 6868486e68085c6e261b3d55f057cddd "pdflatex"
+  "Homework 2.out" 1695970103 606 caba0bdd28b2eaa16be05ef7e41ffe73 "pdflatex"
+  "Homework 2.tex" 1695970101 22017 9d274cbfc2d3f7a91293a977d2c690b9 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1674778193 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1674779139 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1674777675 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -154,7 +154,7 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1674786264 4662804 131178ccc9b2f4741a821427ce79dce1 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674786410 7877852 cf8d475b9a28a6673c273cad37ab10d0 ""
   "c:/texlive/2022/texmf.cnf" 1674786245 713 e69b156964470283e0530f5060668171 ""
-  "c:/workspace/UW Madison/Fall 2023/CS 760/Homeworks/HW2/Homework 2.tex" 1695969210 21958 43f83a35ec4e8f01bc4c22513ed88e2a ""
+  "c:/workspace/UW Madison/Fall 2023/CS 760/Homeworks/HW2/Homework 2.tex" 1695970101 22017 9d274cbfc2d3f7a91293a977d2c690b9 ""
   "d1_scatter.jpg" 1695969093 63498 506f1edf141850a4ecf78ca297c08772 ""
   "d1_vis.png" 1695969093 12189 6253b893ed207672d9ddd8870e586f3e ""
   "d1_vis_decision_boundary.png" 1695969093 7683 20fad8e919cee23792c70683fcbbb59e ""
